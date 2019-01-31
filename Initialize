@@ -1,0 +1,6 @@
+git init
+git remote add origin --https://github.com/satamg/6210/new/master--
+git pull origin master
+git add .
+git commit -m ---commit success---
+git push origin master
