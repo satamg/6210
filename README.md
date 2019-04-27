@@ -98,6 +98,7 @@ Functions designed to
 
 
 Project Outcome
+
 This project is the one destination solution for moviegoers. They can obtain all the necessary information on movies like movie released date, casts, production house, director, trending tweets related to movie, etc.
 
 
